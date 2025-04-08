@@ -1,0 +1,100 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "coleccion",
+    "collectionId": "a3c31912-d213-4ec6-954b-306f7c13918a",
+    "dateExported": "2025-04-08T12:28:26.646Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "d13dd28f-6775-4883-8f28-1510a4f86d91",
+            "colId": "a3c31912-d213-4ec6-954b-306f7c13918a",
+            "containerId": "",
+            "name": "http://localhost:8086/comentario/articulo/1",
+            "url": "http://localhost:8086/comentario/random/20",
+            "method": "POST",
+            "sortNum": 10000,
+            "created": "2025-04-08T12:18:03.035Z",
+            "modified": "2025-04-08T12:18:03.035Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"articulo\": {\n    \"id\": 7\n  },\n  \"usuario\": {\n    \"id\": 1\n    }\n}",
+                "form": []
+            }
+        },
+        {
+            "_id": "a41639b2-cc74-40ed-a999-392ea95461cc",
+            "colId": "a3c31912-d213-4ec6-954b-306f7c13918a",
+            "containerId": "",
+            "name": "http://localhost:8086/favorito/random/20",
+            "url": "http://localhost:8086/favorito/random/20",
+            "method": "POST",
+            "sortNum": 20000,
+            "created": "2025-04-08T12:18:40.336Z",
+            "modified": "2025-04-08T12:18:40.336Z",
+            "headers": []
+        },
+        {
+            "_id": "8bab1bfb-75f0-4c44-82bd-0ca055e00846",
+            "colId": "a3c31912-d213-4ec6-954b-306f7c13918a",
+            "containerId": "",
+            "name": "http://localhost:8086/articulo/random/20",
+            "url": "http://localhost:8086/articulo/random/20",
+            "method": "POST",
+            "sortNum": 30000,
+            "created": "2025-04-08T12:19:34.120Z",
+            "modified": "2025-04-08T12:19:34.120Z",
+            "headers": []
+        },
+        {
+            "_id": "548b268a-1a76-4868-9ee1-eb8952cb3496",
+            "colId": "a3c31912-d213-4ec6-954b-306f7c13918a",
+            "containerId": "",
+            "name": "http://localhost:8086/usuario/random/20",
+            "url": "http://localhost:8086/usuario/random/20",
+            "method": "POST",
+            "sortNum": 40000,
+            "created": "2025-04-08T12:20:04.904Z",
+            "modified": "2025-04-08T12:20:04.904Z",
+            "headers": []
+        },
+        {
+            "_id": "5c0afa3e-b78e-40f2-a4f0-e78057bf055c",
+            "colId": "a3c31912-d213-4ec6-954b-306f7c13918a",
+            "containerId": "",
+            "name": "http://localhost:8086/comentario/articulo/1",
+            "url": "http://localhost:8086/comentario/articulo/1",
+            "method": "GET",
+            "sortNum": 50000,
+            "created": "2025-04-08T12:21:14.032Z",
+            "modified": "2025-04-08T12:21:14.032Z",
+            "headers": []
+        },
+        {
+            "_id": "3ed9ed86-fb94-4650-9d8c-f65baa34340c",
+            "colId": "a3c31912-d213-4ec6-954b-306f7c13918a",
+            "containerId": "",
+            "name": "http://localhost:8086/comentario/usuario/1",
+            "url": "http://localhost:8086/comentario/usuario/1",
+            "method": "GET",
+            "sortNum": 60000,
+            "created": "2025-04-08T12:22:18.968Z",
+            "modified": "2025-04-08T12:22:18.968Z",
+            "headers": []
+        },
+        {
+            "_id": "982ada7f-60e7-409d-9dfb-b06b1042e746",
+            "colId": "a3c31912-d213-4ec6-954b-306f7c13918a",
+            "containerId": "",
+            "name": "http://localhost:8086/favorito/usuario/1",
+            "url": "http://localhost:8086/favorito/usuario/1",
+            "method": "GET",
+            "sortNum": 70000,
+            "created": "2025-04-08T12:23:40.457Z",
+            "modified": "2025-04-08T12:23:40.457Z",
+            "headers": []
+        }
+    ],
+    "ref": "rggDjruKfr3pPPZ2pBKnAipdKuePhYsH35MLGoBhS4V5aCl_2fltDrfUdHKDvvljXcUr4eEDpVrHDJlBL99fWA"
+}
